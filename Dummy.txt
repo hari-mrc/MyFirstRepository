@@ -1,30 +1,21 @@
 This is a dummy text file in my first repository, created on 27th of July 2022 at 12:30 PM IST.
 
-Breaking Bad
-Game of thrones
-The Flash
-Invincible
-Mr.Robot
-The Boys
-Peaky Blinders
-Prison Break
-Vikings
-The Expanse
-Lost in Space
-What If
-Loki
-Wanda Vision
-Moon Knight
-Naruto
-DARK
-Stranger Things
-Narcos
-Money Heist
-Green Arrow
-Legends of Tomorrow
-The Witcher
-Sherlock
-Lucifer
-Cursed
-Sacred Games
-Kota Factory
+Call of Duty : Modern Warfare
+Call of Duty : Black Ops
+GTA vice city
+GTA san andreas
+GTA V
+Project IGI
+D-Day
+Mortal Kombat
+Asphalt 3
+Asphalt 8
+Asphalt 9 Legends
+Asphalt Airborne
+PUBG
+Among Us
+Temple run
+Subway surfers
+
+
+
