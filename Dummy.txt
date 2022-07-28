@@ -1,10 +1,7 @@
 This is a dummy text file in my first repository, created on 27th of July 2022 at 12:30 PM IST.
 
-Chicken Shawarma
-Pizza
-French Fries
-Masala Dosa
-
-
-
+mouse 
+keyboard
+monitor 
+cpu
 
